@@ -53,8 +53,7 @@ Feel free to customize and enhance the dashboard according to your needs:
 ## Contributing
 Contributions to this Power BI dashboard are welcome! If you find any issues, have suggestions for improvements, or would like to add new features, please feel free to submit a pull request or open an issue in the repository.
 
-## License
-This project is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the codebase for your own purposes.
+
 
 ---
 
